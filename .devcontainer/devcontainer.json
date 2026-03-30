@@ -17,5 +17,5 @@
     }
   },
   "forwardPorts": [5000],
-  "postCreateCommand": "cd python && pip3 install -r requirements.txt"
+  "postCreateCommand": "cd python && pip install -r requirements.txt"
 }
