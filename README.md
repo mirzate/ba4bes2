@@ -1,4 +1,4 @@
-Lab Student
+Mirza T
 
 # Creating Apps with GitHub — AI Experiment Log
 
